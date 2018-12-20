@@ -1,0 +1,40 @@
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\csc.exe
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\System.Collections.Immutable.dll
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\vbc.exe
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\VBCSCompiler.exe
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\VBCSCompiler.exe.config
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\Online Electronics Projects Final.dll.config
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\Online Electronics Projects Final.dll
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\Online Electronics Projects Final.pdb
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\obj\Debug\Online Electronics Projects Final.dll
+c:\users\abu zafor\documents\visual studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\obj\Debug\Online Electronics Projects Final.pdb
+C:\Users\Abu Zafor\Documents\Visual Studio 2015\Projects\Online Electronics Projects Final\Online Electronics Projects Final\obj\Debug\Online Electronics Projects Final.csprojResolveAssemblyReference.cache
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\csc.exe
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\System.Collections.Immutable.dll
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\System.Reflection.Metadata.dll
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\vbc.exe
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\VBCSCompiler.exe
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\roslyn\VBCSCompiler.exe.config
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\Online Electronics Projects Final.dll.config
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\Online Electronics Projects Final.dll
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\Online Electronics Projects Final.pdb
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\obj\Debug\Online Electronics Projects Final.csprojResolveAssemblyReference.cache
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\obj\Debug\Online Electronics Projects Final.dll
+E:\AComplete ProJects\Asp.net\Online Electronics Projects Final\Online Electronics Projects Final\obj\Debug\Online Electronics Projects Final.pdb
